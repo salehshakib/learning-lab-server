@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "Algorithms"
+    },
+    {
+      "id": "02",
+      "name": "Data Stuctures"
+    },
+    {
+      "id": "03",
+      "name": "Databases"
+    },
+    {
+      "id": "04",
+      "name": "Artificial intelligence"
+    },
+    {
+      "id": "05",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "06",
+      "name": "Basic Structured language with C"
+    },
+    {
+      "id": "07",
+      "name": "Object oriented programming with java"
+    },
+    {
+      "id": "08",
+      "name": "Begginer Web Dev (HTML, CSS, JS)"
+    },
+    {
+        "id": "09",
+        "name": "Advanced Web Dev (React, Tailwind)"
+    }
+  ]
