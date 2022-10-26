@@ -19,7 +19,7 @@ app.get('/courses', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    if (id === '10') {
+    if (id === '11') {
         res.send(courses);
     }
     else {
