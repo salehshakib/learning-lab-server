@@ -13,13 +13,13 @@ app.get('/', (req, res) => {
     res.send('Courses API Running');
 });
 
-app.get('/course-categories', (req, res) => {
+app.get('/courses', (req, res) => {
     res.send(categories);
 });
 
-app.get('/category/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    if (id === '08') {
+    if (id === '10') {
         res.send(courses);
     }
     else {
